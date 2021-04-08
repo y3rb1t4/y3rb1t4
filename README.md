@@ -21,7 +21,6 @@
 <a href="https://discord.gg/Y3rb1t4 🧉#0216" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Y3rb1t4 🧉#0216" height="30" width="40" /></a>
 </p>
 
-<script src="https://tryhackme.com/badge/315226"></script>
 
 
 <h3 align="left">Languages and Tools:</h3>
