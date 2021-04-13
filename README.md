@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **hrodriguez@frba.utn.edu.ar**
 
-- 📄 Know about my experiences [Programacion web y seguridad informatica](Programacion web y seguridad informatica)
+- 📄 Know about my experiences ......
 
 - ⚡ Fun fact **2021**
 
