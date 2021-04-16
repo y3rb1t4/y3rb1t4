@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Y3rb1t4</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🌱 I’m currently learning **Programacion web inicial**
+- 🌱 I’m currently learning **a little of everything**
 
 - 📝 I regularly write articles on [y3rb1t4.github.io](y3rb1t4.github.io)
 
