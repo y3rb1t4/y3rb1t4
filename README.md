@@ -3,8 +3,8 @@
 <img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/XIqCQx02E1U9W/giphy.gif?cid=790b76118058d44b8f20045259e42b05af9ba7d839813383&rid=giphy.gif&ct=g" />
 
 - 🌱 I’m currently learning **Pentesting and DevOps**
-- 📝 I regularly write articles on my [blog](https://blog.itasahobby.com)
-- 📫 How to reach me **itasahobby@gmail.com**
+- 📝 I regularly write articles on my [blog](commingsoon)
+- 📫 How to reach me **hrodriguez@frba.utn.edu.ar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,10 +16,10 @@
  <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itasahobby&theme=dark&show_icons=true" alt="shwetangStats" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=y3rb1t4&theme=dark&show_icons=true" alt="shwetangStats" />  
   <br />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itasahobby&layout=compact&theme=dark" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y3rb1t4&layout=compact&theme=dark" alt="top-langs" />
 </p>
 
 <br>
