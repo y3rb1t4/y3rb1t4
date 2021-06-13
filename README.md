@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Pentesting and Backend**
 - 📝 I regularly write articles on my [blog](commingsoon)
-- 📫 How to reach me **hrodriguez@frba.utn.edu.ar**
+- 📫 How to reach me **y3rb1t4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
