@@ -16,10 +16,10 @@
  <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=y3rb1t4&theme=dark&show_icons=true" alt="shwetangStats" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=gabobike&theme=dark&show_icons=true" alt="shwetangStats" />  
   <br />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y3rb1t4&layout=compact&theme=dark" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabobike&layout=compact&theme=dark" alt="top-langs" />
 </p>
 
 <br>
