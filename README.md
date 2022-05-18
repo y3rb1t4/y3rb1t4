@@ -3,7 +3,7 @@
 <img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/XIqCQx02E1U9W/giphy.gif?cid=790b76118058d44b8f20045259e42b05af9ba7d839813383&rid=giphy.gif&ct=g" />
 
 - 🌱 I’m currently learning **Pentesting and Backend**
-- 📝 I regularly write articles on my [blog](commingsoon)
+- 📝 I regularly write articles on my [blog](https://y3rb1t4.com.ar)
 - 📫 How to reach me **y3rb1t4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
